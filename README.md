@@ -12,7 +12,7 @@
       * pyttsx3
       * webbrowser
       * smtplib
-      *random
+      * random
       * SpeechRecogntion
       * wikipedia
       * datetime
